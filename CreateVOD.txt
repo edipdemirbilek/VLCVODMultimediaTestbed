@@ -1,0 +1,23 @@
+new ts1 vod
+setup ts1 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_720_LQ.ts"
+setup ts1 enabled
+
+new ts2 vod
+setup ts2 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_720_MQ.ts"
+setup ts2 enabled
+
+new ts3 vod
+setup ts3 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_720_HQ.ts"
+setup ts3 enabled
+
+new ts4 vod
+setup ts4 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_1080_LQ.ts"
+setup ts4 enabled
+
+new ts5 vod
+setup ts5 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_1080_MQ.ts"
+setup ts5 enabled
+
+new ts6 vod
+setup ts6 input "/home/labo/Desktop/MVI_2501_MPEG2_HD_1080_HQ.ts"
+setup ts6 enabled
