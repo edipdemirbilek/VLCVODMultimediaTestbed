@@ -6,6 +6,8 @@ ConfAndStream.sh: Script used to apply bandwidth, jitter and packet loss configu
 
 MeasureNetworkOutput.sh: This script is used to measure effective network output for specified configurations.
 
-Demirbilek, Edip, and Jean-Charles Grégoire. "Towards Reduced Reference Parametric Models for Estimating Audiovisual Quality in Multimedia Services."  2016 IEEE International Conference on Communications (ICC). 
+This Testbed is used in [1] and the technical implementation is explained in [2].
 
-Edip Demirbilek and Jean-Charles Grégoire. Multimedia communication quality assessment testbeds. arXiv preprint arXiv:1609.06612, (2016).
+[1] Demirbilek, Edip, and Jean-Charles Grégoire. "Towards Reduced Reference Parametric Models for Estimating Audiovisual Quality in Multimedia Services."  2016 IEEE International Conference on Communications (ICC). 
+
+[2] Edip Demirbilek and Jean-Charles Grégoire. Multimedia communication quality assessment testbeds. arXiv preprint arXiv:1609.06612, (2016).
